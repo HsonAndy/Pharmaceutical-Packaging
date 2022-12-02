@@ -441,6 +441,9 @@ namespace App_CCD檢測機
             }
         }
 
-
+        private void plC_UI_Init1_UI_Finished_Event()
+        {
+            PLC_UI_Init.Set_PLC_ScreenPage(panel_Main, this.plC_ScreenPage_Main);
+        }
     }
 }
