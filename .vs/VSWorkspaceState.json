@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\APP_預包機",
+    "\\APP_預包機\\App_CCD檢測機"
   ],
-  "SelectedNode": "\\APP_手動示範程式.sln",
+  "SelectedNode": "\\APP_預包機\\App_CCD檢測機\\Form1.cs",
   "PreviewInSolutionExplorer": false
 }

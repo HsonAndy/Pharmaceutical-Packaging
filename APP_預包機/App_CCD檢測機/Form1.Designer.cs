@@ -1407,7 +1407,7 @@
             this.plC_Button28.Bool = false;
             this.plC_Button28.but_press = false;
             this.plC_Button28.Icon = System.Windows.Forms.MessageBoxIcon.Warning;
-            this.plC_Button28.Location = new System.Drawing.Point(604, 1432);
+            this.plC_Button28.Location = new System.Drawing.Point(876, 1683);
             this.plC_Button28.Margin = new System.Windows.Forms.Padding(6, 5, 6, 5);
             this.plC_Button28.Name = "plC_Button28";
             this.plC_Button28.OFF_文字內容 = "通訊重置";
@@ -1418,7 +1418,7 @@
             this.plC_Button28.ON_文字字體 = new System.Drawing.Font("新細明體", 15.75F);
             this.plC_Button28.ON_文字顏色 = System.Drawing.Color.White;
             this.plC_Button28.ON_背景顏色 = System.Drawing.SystemColors.Control;
-            this.plC_Button28.Size = new System.Drawing.Size(131, 50);
+            this.plC_Button28.Size = new System.Drawing.Size(131, 52);
             this.plC_Button28.Style = MyUI.PLC_Button.StyleEnum.經典;
             this.plC_Button28.TabIndex = 152;
             this.plC_Button28.事件驅動 = false;
