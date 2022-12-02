@@ -1,0 +1,10 @@
+C:\Users\HS\Desktop\App_CCD檢測機\App_CCD檢測機\bin\Debug\App_CCD檢測機.exe.config
+C:\Users\HS\Desktop\App_CCD檢測機\App_CCD檢測機\bin\Debug\App_CCD檢測機.exe
+C:\Users\HS\Desktop\App_CCD檢測機\App_CCD檢測機\bin\Debug\App_CCD檢測機.pdb
+C:\Users\HS\Desktop\App_CCD檢測機\App_CCD檢測機\obj\Debug\App_CCD檢測機.csprojAssemblyReference.cache
+C:\Users\HS\Desktop\App_CCD檢測機\App_CCD檢測機\obj\Debug\App_CCD檢測機.Form1.resources
+C:\Users\HS\Desktop\App_CCD檢測機\App_CCD檢測機\obj\Debug\App_CCD檢測機.Properties.Resources.resources
+C:\Users\HS\Desktop\App_CCD檢測機\App_CCD檢測機\obj\Debug\App_CCD檢測機.csproj.GenerateResource.cache
+C:\Users\HS\Desktop\App_CCD檢測機\App_CCD檢測機\obj\Debug\App_CCD檢測機.csproj.CoreCompileInputs.cache
+C:\Users\HS\Desktop\App_CCD檢測機\App_CCD檢測機\obj\Debug\App_CCD檢測機.exe
+C:\Users\HS\Desktop\App_CCD檢測機\App_CCD檢測機\obj\Debug\App_CCD檢測機.pdb
